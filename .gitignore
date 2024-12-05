@@ -5,6 +5,8 @@
 *.dll
 *.so
 *.dylib
+*input.txt
+*input-example.txt
 
 build/
 bin/
